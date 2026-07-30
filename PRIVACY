@@ -1,0 +1,19 @@
+# Privacy Policy for Gemini Conversation Archiver
+
+**Effective Date:** July 30, 2026
+
+Gemini Conversation Archiver ("we", "our", or "us") is committed to protecting your privacy. This privacy policy explains how our browser extension handles your information.
+
+### Information Collection and Storage
+* **Local Storage Only:** The extension stores your archived conversation metadata (such as chat IDs, custom titles, and URLs) exclusively in your browser's local storage (`chrome.storage.local`).
+* **No External Transmission:** We do not collect, transmit, sync, or share your personal data, chat contents, or browsing history with any external servers, third parties, or databases. All data remains entirely on your local device.
+
+### Permissions
+* **Storage:** Used solely to save and load your archived conversation list locally.
+* **Host Permissions (gemini.google.com):** Required to inject the user interface elements (archive buttons) into the Google Gemini web application.
+
+### Changes to This Policy
+We may update our Privacy Policy from time to time. Any changes will be posted by updating the effective date of this policy.
+
+### Contact Us
+If you have any questions about this Privacy Policy, you can reach out via our extension's repository or support page.
